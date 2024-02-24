@@ -1,1 +1,1 @@
-# git-subtree
+# git-submodule
