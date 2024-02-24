@@ -1,0 +1,4 @@
+[submodule "repo-a"]
+	path = repo-a
+	url = git@github.com:thanad/git-subtree-repo-a.git
+	branch = main
