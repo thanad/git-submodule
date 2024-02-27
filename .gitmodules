@@ -6,3 +6,7 @@
 	path = repo-b
 	url = git@github.com:thanad/git-subtree-repo-b.git
 	branch = main
+[submodule "repo-b-2"]
+	path = repo-b-2
+	url = git@github.com:thanad/git-subtree-repo-b.git
+	branch = new-branch
